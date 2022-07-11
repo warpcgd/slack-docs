@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="关闭icon_" data-name="关闭icon ">
+    <path id="关闭按钮" class="cls-1" d="M643.555,5890.84L654,5901.29a3.34,3.34,0,0,1-4.727,4.72l-10.446-10.44-10.446,10.44a3.34,3.34,0,0,1-4.727-4.72l10.446-10.45-10.446-10.44a3.344,3.344,0,1,1,4.727-4.73l10.446,10.44,10.446-10.44A3.344,3.344,0,1,1,654,5880.4Z" transform="translate(-607 -5859)"/>
+  </g>
+</svg>
